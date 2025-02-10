@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my Final Project <br>🤝 I’m looking for help with getting into Job Market and improve myself<br>🌱 I’m currently learning Django<br>💬 Ask me about Python and front-end <br>
+🔭 I’m currently working on my Final Project <br>🤝 I’m looking for help with getting into Job Market and improve myself<br>🌱 I’m currently learning React and Front-end developing<br>💬 Ask me about Python and front-end <br>
 
 
 ## 🌐 Socials:
